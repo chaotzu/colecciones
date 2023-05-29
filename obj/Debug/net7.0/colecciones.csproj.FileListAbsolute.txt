@@ -1,0 +1,15 @@
+/Users/jdiazm/Documents/ejemploscsharp/colecciones/bin/Debug/net7.0/colecciones
+/Users/jdiazm/Documents/ejemploscsharp/colecciones/bin/Debug/net7.0/colecciones.deps.json
+/Users/jdiazm/Documents/ejemploscsharp/colecciones/bin/Debug/net7.0/colecciones.runtimeconfig.json
+/Users/jdiazm/Documents/ejemploscsharp/colecciones/bin/Debug/net7.0/colecciones.dll
+/Users/jdiazm/Documents/ejemploscsharp/colecciones/bin/Debug/net7.0/colecciones.pdb
+/Users/jdiazm/Documents/ejemploscsharp/colecciones/obj/Debug/net7.0/colecciones.csproj.AssemblyReference.cache
+/Users/jdiazm/Documents/ejemploscsharp/colecciones/obj/Debug/net7.0/colecciones.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jdiazm/Documents/ejemploscsharp/colecciones/obj/Debug/net7.0/colecciones.AssemblyInfoInputs.cache
+/Users/jdiazm/Documents/ejemploscsharp/colecciones/obj/Debug/net7.0/colecciones.AssemblyInfo.cs
+/Users/jdiazm/Documents/ejemploscsharp/colecciones/obj/Debug/net7.0/colecciones.csproj.CoreCompileInputs.cache
+/Users/jdiazm/Documents/ejemploscsharp/colecciones/obj/Debug/net7.0/colecciones.dll
+/Users/jdiazm/Documents/ejemploscsharp/colecciones/obj/Debug/net7.0/refint/colecciones.dll
+/Users/jdiazm/Documents/ejemploscsharp/colecciones/obj/Debug/net7.0/colecciones.pdb
+/Users/jdiazm/Documents/ejemploscsharp/colecciones/obj/Debug/net7.0/colecciones.genruntimeconfig.cache
+/Users/jdiazm/Documents/ejemploscsharp/colecciones/obj/Debug/net7.0/ref/colecciones.dll
